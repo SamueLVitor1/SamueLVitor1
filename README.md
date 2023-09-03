@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Tecnologias</h1>
+    <h1 align="center"></h1>
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,git,figma,react&perline=6" />
