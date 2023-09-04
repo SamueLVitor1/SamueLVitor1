@@ -1,3 +1,18 @@
+
+<h1 align="center" styles="color: green,"> Olá!! Seja bem vindo(a) ao meu GitHub </div></h1>
+
+<h5 align="center" width>
+
+![Yoshi](https://media.tenor.com/enqwLzqiw8kAAAAM/yoshi-dancing.gif)
+
+</h5>
+
+<h4 align="center">
+    
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSamuelVitor1&labelColor=%230c1014&countColor=%2352ac96)
+
+</h4>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
    <a href="https://github.com/SamueLVitor1">
