@@ -3,8 +3,6 @@
 
 <h5 align="center" width>
 
-![Yoshi](https://media.tenor.com/enqwLzqiw8kAAAAM/yoshi-dancing.gif)
-
 </h5>
 
 <h4 align="center">
