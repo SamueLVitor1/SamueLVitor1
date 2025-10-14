@@ -40,9 +40,7 @@
 
 ### 🚀 Featured Projects
 
-- 🏠 [**HomeYooo**](https://github.com/SamuelVitor1/HomeYooo) — house management app built with Angular, Fastify & MongoDB.  
-- 💰 [**Cashly**](https://github.com/SamuelVitor1/Cashly) — personal finance tracker built with Next.js & Fastify.  
-- 📚 [**Book Tracker**](https://github.com/SamuelVitor1/ControleLeitura) — ASP.NET WebForms system to track books and reading progress.
+building....
 
 ---
 
