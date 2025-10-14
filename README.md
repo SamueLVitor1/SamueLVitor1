@@ -10,10 +10,10 @@
 
 ### 🧠 About Me
 
-💡 Passionate about technology, clean design, and building user-focused applications.  
-🌱 Currently exploring backend development with **Node.js / Fastify** and frontend architecture with **Angular** and **React**.  
-🎯 Always looking for ways to improve and turn ideas into real, working projects.  
-⚡ Fun fact: I love photography and creative UI design.
+- Passionate about technology, clean design, and building user-focused applications.  
+- Currently exploring backend development with **Node.js / Fastify** and frontend architecture with **Angular** and **React**.  
+- Always looking for ways to improve and turn ideas into real, working projects.  
+- Fun fact: I love photography and creative UI design.
 
 ---
 
