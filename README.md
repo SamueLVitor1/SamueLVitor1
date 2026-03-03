@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! Welcome to my GitHub</h1>
 
-<h3 align="center">I'm Samuel Vítor — a Brazilian Full-Stack Developer learning Node.js and Angular/React to build better apps and grow through personal projects 🚀</h3>
+<h3 align="center">I'm Samuel Vítor — a Brazilian Full-Stack Developer learning Node.js and Angular/React to build better apps and grow through personal projects </h3>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSamuelVitor1&label=Visitors&labelColor=%230c1014&countColor=%2352ac96" alt="Visitors badge"/>
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - Passionate about technology, clean design, and building user-focused applications.  
 - Currently exploring backend development with **Node.js / Fastify** and frontend architecture with **Angular** and **React**.  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,13 +26,13 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 building....
 
 ---
 
-### 🌎 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-v%C3%ADtor-9484988264/" target="_blank">
