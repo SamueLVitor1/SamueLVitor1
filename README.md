@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! Welcome to my GitHub</h1>
+<h1 align="center"> Hey there! Welcome to my GitHub</h1>
 
 <h3 align="center">I'm Samuel Vítor — a Brazilian Full-Stack Developer learning Node.js and Angular/React to build better apps and grow through personal projects </h3>
 
